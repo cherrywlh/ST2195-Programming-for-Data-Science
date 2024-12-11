@@ -1,0 +1,10 @@
+---
+title: "R Markdown"
+output: html_document
+date: "2024-12-08"
+---
+The R script prints the integer 1 to 10 using a colon operator ":"
+
+```{r quote}
+print (1:10)
+```
